@@ -1,7 +1,7 @@
 body{
    background-color: #F9E6CF; 
    color:#69247C;
-    font-family: "papyrus";
+
 }
 
 span{
@@ -10,16 +10,14 @@ span{
 
 a{
     color: #22D4FD;
-    
-    border: 1px solid #22D4FD; 
-    padding: 10px;
-    text-align: center;
+    /*border: 1px solid #22D4FD; 
+    padding: 10px;*/
 }
 
-h1 {
-   align-content: center;
+/*h1 {
+    color: #333333;
+
 }
-/*
 button {
     background-color: green;
     color: white;

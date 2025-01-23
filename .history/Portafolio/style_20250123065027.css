@@ -10,14 +10,13 @@ span{
 
 a{
     color: #22D4FD;
-    
-    border: 1px solid #22D4FD; 
-    padding: 10px;
-    text-align: center;
+    /*border: 1px solid #22D4FD; 
+    padding: 10px;*/
 }
 
 h1 {
-   align-content: center;
+    color: #333333;
+align-content: center;
 }
 /*
 button {
