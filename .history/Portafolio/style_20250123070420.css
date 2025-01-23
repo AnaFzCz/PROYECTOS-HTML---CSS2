@@ -9,7 +9,7 @@ span{
 }
 
 a{
-    color: #22D4FD;
+    color: #FAC67A;
     
     border: 1px solid #22D4FD; 
     padding: 10px;
@@ -21,11 +21,7 @@ h1 {
 }
 img {
     border-radius: 8px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
   }
-
   img:hover {
     transform: scaleX(-1);
   }
