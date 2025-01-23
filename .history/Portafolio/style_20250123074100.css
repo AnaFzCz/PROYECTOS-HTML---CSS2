@@ -23,6 +23,11 @@ a{
     
   }
 
+.bloq{
+
+    display:inline-block;
+}
+
 h1 {
    align-content: center;
 }
