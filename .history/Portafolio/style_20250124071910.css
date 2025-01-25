@@ -1,0 +1,43 @@
+body{
+   background-color: #F9E6CF; 
+   color:#69247C;
+    font-family: "papyrus";
+}
+
+.destacar{
+  color:#DA498D;
+}
+
+span{
+    color:#DA498D;
+}
+
+a{
+    color: #22D4FD;
+    
+    border: 1px solid #22D4FD; 
+    padding: 10px;
+    text-align: center;
+}
+.bot {
+    
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    
+  }
+
+h1 {
+   align-content: center;
+}
+img {
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  img:hover {
+    transform: scaleX(-1);
+  }
+  
